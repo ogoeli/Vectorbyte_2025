@@ -3,7 +3,7 @@
     "path": "C:/Users/ope4/OneDrive - Northern Arizona University/Desktop/RESEARCH/PRO_DEVE/VectorByte/Day_1/CODE.R",
     "project_path": "CODE.R",
     "type": "r_source",
-    "hash": "2394024602",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1749912466315.0,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "124,2",
-        "scrollLine": "106"
+        "cursorPosition": "450,0",
+        "scrollLine": "268"
     },
-    "folds": "8|96|64|0|\n",
-    "lastKnownWriteTime": 1749913891,
+    "folds": "8|96|64|0|\n71|96|127|0|\n134|96|193|0|\n200|96|258|0|\n267|90|357|45|\n363|91|375|29|\n380|91|397|0|\n402|90|424|0|\n430|90|448|0|\n",
+    "lastKnownWriteTime": 1749933112,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1749913891277,
+    "last_content_update": 1749933112936,
     "read_only": false,
     "read_only_alternatives": []
 }
